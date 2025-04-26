@@ -10,7 +10,7 @@
   <img align="center" alt="Luan-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="filter: brightness(0.8);">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="filter: brightness(0.8);">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="filter: brightness(0.8);">
-  <img align="center" alt="Luan-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="filter: brightness(0.8);">
+  <img align="center" alt="Luan-Tailwind" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" style="filter: brightness(0.8);">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="filter: brightness(0.8);">
 </div>
 
