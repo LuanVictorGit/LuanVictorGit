@@ -1,5 +1,5 @@
 ## <span style="color: #58a6ff">Olá, eu sou o Luan Victor!</span> 
-### <span style="color: #8b949e">Desenvolvedor FullStack & Criador de Conteúdo</span>
+### <span style="color: #8b949e">Desenvolvedor FullStack</span>
 
 📝 Confira meus artigos e projetos no meu blog: [luandev.blog.br](https://luandev.blog.br)
 
@@ -19,7 +19,7 @@
 <div>
   <!-- Badges com tema mais escuro -->
   <a href="https://luandev.blog.br" target="_blank"><img src="https://img.shields.io/badge/Meu_Blog-181717?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" target="_blank"></a>
-  <a href = "mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luanvictorchagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" target="_blank"></a>
+  <a href = "mailto:luanvictorchagas2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" target="_blank"></a>
   <a href="https://github.com/LuanVictorGit" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" target="_blank"></a>
 </div>
