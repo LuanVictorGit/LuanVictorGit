@@ -3,8 +3,8 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=435&lines=Transformando+código+em+soluções+criativas;Bem-vindo+ao+meu+universo+dev!" 
-    alt="Texto animado de boas-vindas" 
+    src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&width=500&lines=Transformando+código+em+soluções+criativas;Bem-vindo+ao+meu+universo+dev!" 
+    alt="Animação de texto digitando" 
   />
 </div>
 
