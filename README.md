@@ -22,7 +22,7 @@ Desenvolvedor apaixonado por criar soluções completas, desde o backend robusto
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
 
   <!-- HTML5 -->
-  <img alt="HTML5" title="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="filter: brightness(0.9);" />
+  <img alt="HTML5" title="HTML5" width="5rem" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="filter: brightness(0.9);" />
 
   <!-- CSS3 -->
   <img alt="CSS3" title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="filter: brightness(0.9);" />
