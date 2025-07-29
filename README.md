@@ -22,31 +22,31 @@ Desenvolvedor apaixonado por criar soluções completas, desde o backend robusto
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
 
   <!-- HTML5 -->
-  <img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="filter: brightness(0.9); width: 5rem; height: auto;" />
+  <img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="filter: brightness(0.9); width: 3rem; height: auto;" />
 
   <!-- CSS3 -->
-  <img alt="CSS3" title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="filter: brightness(0.9);" />
+  <img alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="filter: brightness(0.9); width: 3rem; height: auto;" />
 
   <!-- JavaScript -->
-  <img alt="JavaScript" title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="filter: brightness(0.9);" />
+  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="filter: brightness(0.9); width: 3rem; height: auto;" />
 
   <!-- Node.js -->
-  <img alt="Node.js" title="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="filter: brightness(0.9);" />
+  <img alt="Node.js" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="filter: brightness(0.9); width: 3rem; height: auto;" />
 
   <!-- Java -->
-  <img alt="Java" title="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="filter: brightness(0.9);" />
+  <img alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="filter: brightness(0.9); width: 3rem; height: auto;" />
 
   <!-- Spring Boot -->
-  <img alt="Spring Boot" title="Spring Boot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="filter: brightness(0.9);" />
+  <img alt="Spring Boot" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="filter: brightness(0.9); width: 3rem; height: auto;" />
 
   <!-- Javalin -->
-  <img alt="Javalin" title="Javalin" height="50" src="https://javalin.io/img/logo.svg" style="filter: brightness(0.9);" />
+  <img alt="Javalin" title="Javalin" src="https://javalin.io/img/logo.svg" style="filter: brightness(0.9); width: 3rem; height: auto;" />
 
   <!-- JavaPlugin (ícone customizado, sugestão do Spigot) -->
-  <img alt="JavaPlugin" title="JavaPlugin (Spigot/Bukkit)" height="50" src="https://www.spigotmc.org/favicon.ico" style="filter: brightness(0.9);" />
+  <img alt="JavaPlugin" title="JavaPlugin (Spigot/Bukkit)" src="https://www.spigotmc.org/favicon.ico" style="filter: brightness(0.9); width: 3rem; height: auto;" />
 
   <!-- MySQL -->
-  <img alt="MySQL" title="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="filter: brightness(0.9);" />
+  <img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="filter: brightness(0.9); width: 3rem; height: auto;" />
 
 </div>
 
