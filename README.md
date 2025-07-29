@@ -1,46 +1,51 @@
-<h1 align="center" style="font-family: monospace; font-size: 2.5rem;">
-  🚀 Olá! Eu sou o <span style="color: #22d3ee;">LuanDev</span>!
-</h1>
+# <span style="color: #58a6ff; font-weight: 600">🚀 Olá, eu sou o Luan Victor!</span> 
+### <span style="color: #8b949e; font-size: 1.1em">Desenvolvedor FullStack</span>
 
-<p align="center" style="font-family: monospace;">
-  <strong>🛰️ Desenvolvedor fullstack | Explorando o universo da programação</strong>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=435&lines=Transformando+código+em+soluções+criativas;Bem-vindo+ao+meu+universo+dev!" alt="Typing animation" />
+</div>
 
-<p align="center">
-  <a href="https://luandev.blog.br" target="_blank" style="text-decoration: none; background-color: #0f172a; color: #38bdf8; padding: 8px 16px; border-radius: 8px; font-family: monospace;">
-    🌐 Visite minha base de lançamentos – luandev.blog.br
+---
+
+🌌 **Sobre Mim**  
+Desenvolvedor apaixonado por criar soluções completas, desde o backend robusto até interfaces intuitivas. Adoro compartilhar conhecimento através do meu blog e contribuir para a comunidade tech.
+
+🛰️ **Visite minha base de lançamentos:**  
+[![Blog Badge](https://img.shields.io/badge/🚀_luandev.blog.br-181717?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)](https://luandev.blog.br)
+
+---
+
+🛠 **Stack Tecnológica**  
+<div style="display: inline_block; margin-top: 10px;">
+  <img align="center" alt="Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="filter: brightness(0.85);">
+  <img align="center" alt="Spring" title="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="filter: brightness(0.85);">
+  <img align="center" alt="JavaScript" title="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="filter: brightness(0.85);">
+  <img align="center" alt="Node.js" title="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="filter: brightness(0.85);">
+  <img align="center" alt="HTML5" title="HTML5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="filter: brightness(0.85);">
+  <img align="center" alt="CSS3" title="CSS3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="filter: brightness(0.85);">
+  <img align="center" alt="Tailwind" title="Tailwind CSS" height="35" width="45" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" style="filter: brightness(0.85);">
+  <img align="center" alt="Python" title="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="filter: brightness(0.85);">
+</div>
+
+---
+
+📡 **Conecte-se Comigo**  
+<div style="margin-top: 15px;">
+  <a href="https://www.linkedin.com/in/luanvictorchagas/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
   </a>
-</p>
+  <a href="mailto:luanvictorchagas2015@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail">
+  </a>
+  <a href="https://github.com/LuanVictorGit" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
+  </a>
+</div>
 
-<hr>
+---
 
-<h2 align="center" style="font-family: monospace;">✨ Missão: Nave Espacial Atirando em Commits</h2>
-
-<p align="center" style="font-family: monospace;">
-  <img src="https://raw.githubusercontent.com/LuanDevBlog/assets/main/space-nave-static.png" alt="Nave atirando em commits" width="500" />
-</p>
-
-<p align="center" style="font-family: monospace;">
-  A cada commit, a nave dispara um raio! <br>
-  Linguagens explodem em cores: 
-  <span style="color: #facc15;">JS</span>, 
-  <span style="color: #38bdf8;">HTML</span>, 
-  <span style="color: #8b5cf6;">CSS</span>, 
-  <span style="color: #ef4444;">Java</span>...
-</p>
-
-<p align="center" style="font-family: monospace;">
-  O ciclo se reinicia no infinito do espaço! 🪐
-</p>
-
-<hr>
-
-<h3 align="center" style="font-family: monospace;">🚧 Perfil em construção com ideias criativas! 🚀</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luandevblog&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luandevblog&layout=compact&theme=tokyonight" />
-</p>
+📈 **Estatísticas do GitHub**  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanVictorGit&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" alt="Luan's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanVictorGit&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+</div>
