@@ -2,7 +2,10 @@
 ### <span style="color: #8b949e; font-size: 1.1em">Desenvolvedor FullStack</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=435&lines=Transformando+código+em+soluções+criativas;Bem-vindo+ao+meu+universo+dev!" alt="Typing animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=435&lines=Transformando+código+em+soluções+criativas;Bem-vindo+ao+meu+universo+dev!" 
+    alt="Texto animado de boas-vindas" 
+  />
 </div>
 
 ---
