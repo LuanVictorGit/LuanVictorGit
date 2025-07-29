@@ -19,15 +19,35 @@ Desenvolvedor apaixonado por criar soluções completas, desde o backend robusto
 ---
 
 🛠 **Stack Tecnológica**  
-<div style="display: inline_block; margin-top: 10px;">
-  <img align="center" alt="Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="filter: brightness(0.85);">
-  <img align="center" alt="Spring" title="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="filter: brightness(0.85);">
-  <img align="center" alt="JavaScript" title="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="filter: brightness(0.85);">
-  <img align="center" alt="Node.js" title="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="filter: brightness(0.85);">
-  <img align="center" alt="HTML5" title="HTML5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="filter: brightness(0.85);">
-  <img align="center" alt="CSS3" title="CSS3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="filter: brightness(0.85);">
-  <img align="center" alt="Tailwind" title="Tailwind CSS" height="35" width="45" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" style="filter: brightness(0.85);">
-  <img align="center" alt="Python" title="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="filter: brightness(0.85);">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
+
+  <!-- HTML5 -->
+  <img alt="HTML5" title="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="filter: brightness(0.9);" />
+
+  <!-- CSS3 -->
+  <img alt="CSS3" title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="filter: brightness(0.9);" />
+
+  <!-- JavaScript -->
+  <img alt="JavaScript" title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="filter: brightness(0.9);" />
+
+  <!-- Node.js -->
+  <img alt="Node.js" title="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="filter: brightness(0.9);" />
+
+  <!-- Java -->
+  <img alt="Java" title="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="filter: brightness(0.9);" />
+
+  <!-- Spring Boot -->
+  <img alt="Spring Boot" title="Spring Boot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="filter: brightness(0.9);" />
+
+  <!-- Javalin -->
+  <img alt="Javalin" title="Javalin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Javalin-logo.svg" style="filter: brightness(0.9);" />
+
+  <!-- JavaPlugin (ícone customizado, sugestão do Spigot) -->
+  <img alt="JavaPlugin" title="JavaPlugin (Spigot/Bukkit)" height="50" src="https://cdn.jsdelivr.net/gh/LuanDevBlog/assets@main/icons/spigot-plugin-icon.png" style="filter: brightness(0.9);" />
+
+  <!-- MySQL -->
+  <img alt="MySQL" title="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="filter: brightness(0.9);" />
+
 </div>
 
 ---
