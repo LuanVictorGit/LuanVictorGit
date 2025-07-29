@@ -40,10 +40,10 @@ Desenvolvedor apaixonado por criar soluções completas, desde o backend robusto
   <img alt="Spring Boot" title="Spring Boot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="filter: brightness(0.9);" />
 
   <!-- Javalin -->
-  <img alt="Javalin" title="Javalin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Javalin-logo.svg" style="filter: brightness(0.9);" />
+  <img alt="Javalin" title="Javalin" height="50" src="https://javalin.io/img/logo.svg" style="filter: brightness(0.9);" />
 
   <!-- JavaPlugin (ícone customizado, sugestão do Spigot) -->
-  <img alt="JavaPlugin" title="JavaPlugin (Spigot/Bukkit)" height="50" src="https://cdn.jsdelivr.net/gh/LuanDevBlog/assets@main/icons/spigot-plugin-icon.png" style="filter: brightness(0.9);" />
+  <img alt="JavaPlugin" title="JavaPlugin (Spigot/Bukkit)" height="50" src="https://www.spigotmc.org/favicon.ico" style="filter: brightness(0.9);" />
 
   <!-- MySQL -->
   <img alt="MySQL" title="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="filter: brightness(0.9);" />
