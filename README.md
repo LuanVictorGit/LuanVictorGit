@@ -14,7 +14,7 @@
 Desenvolvedor apaixonado por criar soluções completas, desde o backend robusto até interfaces intuitivas. Adoro compartilhar conhecimento através do meu blog e contribuir para a comunidade tech.
 
 🛰️ **Visite minha base de lançamentos:**  
-[![Blog Badge](https://img.shields.io/badge/🚀_luandev.blog.br-181717?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)](https://luandev.blog.br)
+https://angatusistemas.com.br
 
 ---
 
@@ -63,12 +63,4 @@ Desenvolvedor apaixonado por criar soluções completas, desde o backend robusto
   <a href="https://github.com/LuanVictorGit" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
   </a>
-</div>
-
----
-
-📈 **Estatísticas do GitHub**  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanVictorGit&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" alt="Luan's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanVictorGit&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </div>
