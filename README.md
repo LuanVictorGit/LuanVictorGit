@@ -12,7 +12,7 @@ Construo sites, sistemas e produtos digitais sob medida para transformar problem
 
 [![Conheça a Angatu Sistemas](https://img.shields.io/badge/Conhe%C3%A7a_a_Angatu_Sistemas-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://angatusistemas.com.br)
 [![Solicite um orçamento](https://img.shields.io/badge/Solicite_um_or%C3%A7amento-58A6FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://angatusistemas.com.br/#orcamento)
-[![Veja meus projetos](https://img.shields.io/badge/Veja_meus_projetos-1F2937?style=for-the-badge&logo=github&logoColor=white)](#projetos)
+[![Veja meus projetos](https://img.shields.io/badge/Veja_meus_projetos-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanVictorGit?tab=repositories)
 
 </td>
 <td width="42%" align="center">
@@ -106,36 +106,6 @@ Sistemas conectados a serviços externos: pagamentos via Mercado Pago (PIX e car
 </td>
 </tr>
 </table>
-
-<br/>
-
----
-
-<a id="projetos"></a>
-## Projetos
-
-Uma seleção dos repositórios públicos que melhor representam o trabalho técnico — não a lista completa.
-
-<br/>
-
-**[AngatuLibraries](https://github.com/LuanVictorGit/AngatuLibraries)**<br/>
-Framework de utilidades para projetos Java da Angatu Sistemas: servidor web com segurança integrada (Javalin), persistência em SQLite, e-mail, Web Push, bot de Discord, cliente de IA, QR Code e integração com Mercado Pago — tudo modular, com rate limiting e proteção contra SQL Injection/XSS por padrão. É a base sobre a qual os outros sistemas da empresa são construídos.<br/>
-`Java` · `Javalin` · `SQLite`<br/>
-<sub>Uso interno da Angatu Sistemas — utilização externa requer autorização prévia.</sub>
-
-**[HawkShop](https://github.com/LuanVictorGit/HawkShop)**<br/>
-Loja web completa integrada a servidores de Minecraft: catálogo, carrinho, checkout com PIX e cartão via Mercado Pago, entrega automática dentro do jogo, painel administrativo e HTTPS emitido automaticamente pelo próprio plugin. Em desenvolvimento ativo.<br/>
-`Java 21` · `JavaScript` · `HTML/CSS` · `SQLite` · `WebSocket`
-
-**[AngatuWhatsappSDK](https://github.com/LuanVictorGit/AngatuWhatsappSDK)**<br/>
-SDK Java para conectar uma aplicação ao WhatsApp — envio e recebimento de mensagens, mídia e eventos de grupo — sem que o desenvolvedor Java precise escrever uma linha de Node.js. Sobe um processo bridge isolado e conversa com ele por WebSocket local.<br/>
-`Java` · `TypeScript` · `Node.js`<br/>
-<sub>Licença Apache 2.0.</sub>
-
-**[OCClaude](https://github.com/LuanVictorGit/OCClaude)**<br/>
-Proxy local que traduz chamadas do Claude CLI para modelos do OpenCode/OpenAI e de volta, incluindo streaming SSE evento a evento. Projeto independente, sem afiliação com Anthropic ou OpenCode.<br/>
-`JavaScript` · `Node.js`<br/>
-<sub>Licença MIT.</sub>
 
 <br/>
 
