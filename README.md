@@ -17,7 +17,7 @@ Construo sites, sistemas e produtos digitais sob medida para transformar problem
 </td>
 <td width="42%" align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQEpzR6nPq_KOg/profile-displayphoto-crop_800_800/B4DZ69BtINI8AI-/0/1781287803458?e=1792022400&v=beta&t=dhiCK135-rcFVdq_ASCEw6QyZX7co2HnjmhahK2odLo" width="260" alt="Luan Victor, founder da Angatu Sistemas" /><br/>
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQGyuaQA648ugw/profile-displayphoto-scale_400_400/B4DaFcDLaZLEAg-/0/1792545700795?e=1794441600&v=beta&t=p_KdN0mjwt8PT52oR_sxcWMXNLpYmuXlr3-yUoVAKcA" width="260" alt="Luan Victor, founder da Angatu Sistemas" /><br/>
 <sub><code>~/angatu $ whoami</code></sub><br/>
 <sub><b>Luan Victor</b> — Founder @ Angatu Sistemas</sub>
 
